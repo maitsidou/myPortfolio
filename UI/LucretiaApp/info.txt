@@ -1,0 +1,1 @@
+This folder contains the UI of the Lucretia app which was created in the context of the "Software Engineering Ι" course of the Aristotle University of Thessaloniki.
